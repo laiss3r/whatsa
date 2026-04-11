@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "can you clone mobile WhatsApp web ap that saves evething locally",
+    "think": null
+  },
+  {
+    "role": "assistant",
+    "content": "To build a mobile WhatsApp web app that saves everything locally, will create a React-based application using TypeScript. This application will utilize the WhatsApp Web API to fetch and display messages, contacts, and relevant data, while storing all information locally using IndexedDB or a similar storage solution.",
+    "think": null
+  }
+]
