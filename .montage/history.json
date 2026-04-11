@@ -8,5 +8,15 @@
     "role": "assistant",
     "content": "To build a mobile WhatsApp web app that saves everything locally, will create a React-based application using TypeScript. This application will utilize the WhatsApp Web API to fetch and display messages, contacts, and relevant data, while storing all information locally using IndexedDB or a similar storage solution.",
     "think": null
+  },
+  {
+    "role": "user",
+    "content": "is this work",
+    "think": null
+  },
+  {
+    "role": "assistant",
+    "content": "Building a WhatsApp web app that saves locally is a complex task. WhatsApp's terms of service prohibit scraping or storing user data without permission. However, we can design a basic structure for such an application, focusing on the technical aspects.\n\nThe app will require the following components:\n- A login system to authenticate with WhatsApp Web\n- A messaging system to fetch and display\n- A contacts system to manage and display contacts\n- A local storage system to store all data\n\nHere's a possible implementation:\n\n\n\n\n\n\n\n\n\nPlease note that this is a simplified example and does not include the actual implementation of the WhatsApp Web API or the local storage system. Additionally, this application may not work as-is due to the complexities of the WhatsApp Web API and the terms of service.",
+    "think": null
   }
 ]
