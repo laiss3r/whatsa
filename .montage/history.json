@@ -48,5 +48,15 @@
     "role": "assistant",
     "content": "Not yet— current only has core type files a basic CSS, and an `App.tsx skeleton, but it’s missing the full logic UI components, routing, and local‑storage persistence for a functional WhatsApp app.",
     "think": null
+  },
+  {
+    "role": "user",
+    "content": "finish",
+    "think": null
+  },
+  {
+    "role": "assistant",
+    "content": "",
+    "think": null
   }
 ]
