@@ -58,5 +58,15 @@
     "role": "assistant",
     "content": "",
     "think": null
+  },
+  {
+    "role": "user",
+    "content": "finish everything",
+    "think": null
+  },
+  {
+    "role": "assistant",
+    "content": "age-write=\"tsconfig.json\"Set up TypeScript compiler React\">\n{\n  \"compilerOptions\": {\n    \"target\": \"ES2017\",\n    \"lib\": [\"dom \"dom.iterable\", \"esnext\"],\n\": false    \"skipLibCheck\": true,\n    \"Interop\": true,\n    \"allowSyntheticDefaultImports\": true    \"strict\": \"ConsistentCasingInFile\": true    \"FallthroughInSwitch\": true,\n   module\": \"ES6\",\n    \"Resolution\":\",\n   resolveJsonModule,\n   isolatedModules\":,\n    \"noEmit\":,\n \"jsx \"react-jsx   \"include [\"src\"]\n}\n</age-write>\n\nmontage-write path=\"src/index.html\" message HTML page\">\n<!DOCTYPE>\n<html lang=\"en\">\n<head<meta charset=\"UTF8\"<meta name=\"viewport content=\"=device-width, initial-scale=0\" />\n<title>whatsa</title>\n<link rel=\"stylesheet\" href=\"%PUBLIC_URL%/index.css\"</<body>\n<div id=\"rootdiv>\n</body>\n</>\n</mont-write",
+    "think": null
   }
 ]
